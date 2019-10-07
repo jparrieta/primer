@@ -11,5 +11,5 @@ It takes a while to load. After loading, click any \*.ipynb  and you will be abl
 
 # log  
 
-**191007:** Full primer created.  
+**191007:** Full primer created and empty notebook added.  
 **191005:** Repository created.  
