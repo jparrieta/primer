@@ -9,6 +9,8 @@ It takes a while to load. After loading, click any \*.ipynb  and you will be abl
 **Link:** https://mybinder.org/v2/gh/jparrieta/primer/master
   
 # log  
-  
+
+
+**191013:** Added calculator and classes to the full primer
 **191007:** Full primer created and empty notebook added.  
 **191005:** Repository created.  
